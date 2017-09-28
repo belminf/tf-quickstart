@@ -1,0 +1,9 @@
+project_name = "playground"
+github_user = "belboy"
+bastion_user = "belboy"
+key_name = "belboy-key-10032017"
+remote_cidr_list = ["192.168.100.100/24"]
+bastion_ami = "ami-cd0f5cb6"
+bastion_instance_type = "t2.medium"
+bastion_root_gb = "100"
+bastion_root_type = "gp2"
